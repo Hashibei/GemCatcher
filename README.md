@@ -1,4 +1,4 @@
-# :package: **DEVELOPED** - The project was fully developed.
+# :package: **DEVELOPED** - This project was fully developed.
 Development repository of the GemCatcher game, developed following a Udemy Course.
  
 ---
