@@ -1,7 +1,7 @@
 [gd_scene load_steps=4 format=3 uid="uid://fo4586b5v16o"]
 
 [ext_resource type="Texture2D" uid="uid://b5dxp5tjaryy4" path="res://assets/element_red_diamond.png" id="1_jfdtd"]
-[ext_resource type="Script" path="res://scenes/gem.gd" id="1_ntdl1"]
+[ext_resource type="Script" uid="uid://bl8rsrjlhjsl" path="res://scenes/gem.gd" id="1_ntdl1"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_egs21"]
 size = Vector2(35, 35)
